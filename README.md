@@ -31,7 +31,7 @@ I'm **vorazun1110** — a productivity-driven full-stack developer passionate ab
 ### 📫 How to reach me
 
 - GitHub: [@vorazun1110](https://github.com/vorazun1110)
-- Email: _[add your email or contact link if you'd like]_
+- Email: lhagwadashka1110@gmail.com
 
 ---
 
