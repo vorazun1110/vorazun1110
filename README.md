@@ -39,7 +39,7 @@ I'm **vorazun1110** — a productivity-driven full-stack developer passionate ab
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vorazun1110&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorazun1110&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vorazun1110&layout=compact&langs_count=6&theme=dark)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vorazun1110&theme=tokyo-night)](https://github.com/vorazun1110)
 
