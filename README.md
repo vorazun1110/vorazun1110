@@ -6,8 +6,7 @@ I'm **vorazun1110** — a productivity-driven full-stack developer passionate ab
 
 ### 🔭 I’m currently working on
 
-- A **fitness tracking mini app** with Next.js + Node.js
-- Learning **Java Spring Boot** with MongoDB
+- Implementing **Java Spring Boot microservices** (Kafka, GraphQL, Redis, K8s)
 - Improving **Go microservices** (Kafka, gRPC, Redis)
 
 ---
