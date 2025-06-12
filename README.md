@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **vorazun1110** — a productivity-driven full-stack developer passionate about backend systems, clean architecture, and learning new technologies daily.
+I'm **Dashka** — a productivity-driven full-stack developer passionate about backend systems, clean architecture, and learning new technologies daily.
 
 ---
 
